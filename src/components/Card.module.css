@@ -1,0 +1,42 @@
+.title {
+  font-size: 2em;
+  text-align: center;
+  
+  color: rgb(26, 26, 130)
+}
+
+.unorderedList {
+  list-style-type: none;
+  padding: 1em;
+  border: solid black;
+  margin: 3px;
+  background-color: rgb(245, 242, 242);
+  
+  
+  
+}
+
+.listItem {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 18vw;
+  height: 1vh;
+  background-color: rgb(182, 182, 240);
+  padding: 1em;
+  margin: 5px;
+  font-weight: 500;
+  border-radius: 5%;
+}
+
+.listItem:hover {
+  background-color: #262623c9;
+  color: beige;
+}
+
+.boton {
+
+  color: red;
+  background-color: blue;
+  display: center; 
+}
